@@ -1,4 +1,4 @@
-# Horriseon Digital Marketing
+# Random Password Generator
 
 ## Description
 
@@ -34,7 +34,7 @@ This webpage can be navigated to and acessed with a browser. It does not require
 
 -The pasword will match the user criteria exactly for all cases.
 
--Please follow this link to the deployed page : and impliment the aformentioned instructions
+-Please follow this link https://guymorganb.github.io/Random_Password_Generator/ to access the deployed page : and impliment the aformentioned instructions
     
 
 ## Credits

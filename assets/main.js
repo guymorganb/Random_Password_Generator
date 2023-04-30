@@ -114,7 +114,7 @@ document.addEventListener("DOMContentLoaded", ()=>{
                 tempPass.unshift(lowerChars[Math.floor(Math.random()*lowerChars.length)]);
                 
                 tempPass.unshift(spChars[Math.floor(Math.random()*spChars.length)]);
-            }console.log('tempPass= ' + tempPass)
+            }
             Shuffle(tempPass);
         }
     }
@@ -153,16 +153,3 @@ document.addEventListener("DOMContentLoaded", ()=>{
     
     
 })
-
-
-
-
-
-
-
-
-
-
-
-
-

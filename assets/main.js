@@ -126,7 +126,7 @@ document.addEventListener("DOMContentLoaded", ()=>{
           firstPass.unshift(array[j]);  // brute force
     
           array.splice(j, 1); 
-        }console.log('first pass= ' + firstPass);
+        }
         ShuffleAndTrim(firstPass);
     }
     
@@ -146,8 +146,7 @@ document.addEventListener("DOMContentLoaded", ()=>{
                 
             }passwordText.value=finalPass.join('')
 
-      console.log('second pass= ' + secondPass + 'length of ' + secondPass.length )
-      console.log('this is finalPass= ' + finalPass + 'length of ' + finalPass.length )
+    
 
     }
     
